@@ -21,13 +21,13 @@ Requirements:
 
 For the uploaded sqlite3 db example use:
 
-user: admin@admin.admin
-password: admin
+    user: admin@admin.admin
+    password: admin
 
 Sites:   
-sitio1.localhost
 
-sitio2.localhost
+    sitio1.localhost
+    sitio2.localhost
 
 Edit your /etc/hosts and add this lines:
 ```
